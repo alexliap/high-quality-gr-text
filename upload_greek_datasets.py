@@ -146,6 +146,11 @@ All text has been tokenized using the GPT2 tokenizer (via tiktoken library). The
 
 Apache 2.0 (inherits from source datasets)
 
+## Code Repository
+
+The code used to build this dataset is available on GitHub:
+[https://github.com/alexliap/high-quality-gr-text](https://github.com/alexliap/high-quality-gr-text)
+
 ## Citation
 
 If you use this dataset, please cite the original sources:
